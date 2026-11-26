@@ -1,4 +1,4 @@
-# Sherei
+# Fare-System
 ## About
 This repository is for our branching and merge conflict activity.
 ## Contact
